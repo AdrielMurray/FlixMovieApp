@@ -39,11 +39,12 @@ Describe any challenges encountered while building the app.
 
 
 
-<img src="https://s3.ezgif.com/save/ezgif-3-fc39a08db179.gif" width=250><br>
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/62211880/132142198-cadb1d0e-291e-44a3-a470-165dafc506cf.gif)
+
 
 
 
 
 
 ### Notes
-Describe any challenges encountered while building the app.
+Tableview doesn't scroll to infinite yet and many warnings while building app. 
