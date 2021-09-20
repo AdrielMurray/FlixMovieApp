@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import Flix_Movie_App
+@testable import FlixMovieApp
 
 class Flix_Movie_AppTests: XCTestCase {
 
